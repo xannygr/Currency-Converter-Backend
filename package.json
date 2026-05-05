@@ -1,0 +1,16 @@
+{
+  "name": "currencyconverter",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.12devs.com/training/internship/2026_interns/agridyushko/gridiushhko/currency_converter_backend"
+  },
+  "license": "ISC",
+  "author": "Hanna Hrydziushka",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  }
+}
